@@ -24,6 +24,7 @@ header {
 }
 
 header h1 {
+    font-size: 1.6em;
     color: rgb(238, 60, 95);
     text-align: center;
     letter-spacing: -1px;
@@ -47,6 +48,11 @@ header h1 {
 .change-location label {
     color: #fff;
     margin-bottom: 10px;
+    font-weight: 300;
+}
+
+.change-location placeholder {
+    font-weight: 300;
 }
 
 .card {
